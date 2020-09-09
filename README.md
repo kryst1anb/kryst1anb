@@ -17,5 +17,5 @@ I'm Krystian. I'm from Poland. I create and manage websites in the wordpress sys
 - Backend development using <img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff">
 - Data Bases using <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white" > <img src="https://img.shields.io/badge/-MongoDB-orange?style=flat&logo=MongoDB&logoColor=white">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kryst1anb&theme=radical)
-![Github stats](https://github-readme-stats.vercel.app/api?username=kryst1anb&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kryst1anb&theme=vue&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kryst1anb&show_icons=true&theme=vue&layout=compact)
