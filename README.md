@@ -4,6 +4,7 @@
 
 I'm Krystian. I'm from Poland. I create and manage websites in the wordpress system and create my own plugins for it. In my spare time, I try to learn JS. Currently a student of the last semester of the Silesian University of Technology
 
+![](https://visitor-badge.glitch.me/badge?page_id=kryst1anb.kryst1anb)
 ![GitHub followers](https://img.shields.io/github/followers/kryst1anb?label=Follow&style=social)
 
 ## ✔️ I'm currently learning
