@@ -18,4 +18,4 @@ I'm Krystian. I'm from Poland. I create and manage websites in the wordpress sys
 - Data Bases using <img src="https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white" > <img src="https://img.shields.io/badge/-MongoDB-orange?style=flat&logo=MongoDB&logoColor=white">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kryst1anb&theme=radical)
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=kryst1anb&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kryst1anb&show_icons=true)
