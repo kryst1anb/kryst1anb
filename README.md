@@ -1,6 +1,6 @@
 ## 🧐 About
 
-<img align="right" alt="GIF" src="https://github.com/kryst1anb/kryst1anb/blob/master/gif.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://github.com/kryst1anb/kryst1anb/blob/master/gif.gif" width="350" height="200" />
 
 I'm Krystian. I'm from Poland. I create and manage websites in the wordpress system and create my own plugins for it. In my spare time, I try to learn JS. Currently a student of the last semester of the Silesian University of Technology
 
