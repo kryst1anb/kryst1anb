@@ -9,7 +9,7 @@ I'm Krystian. I'm from Poland. I create and manage websites in the Wordpress sys
 
 ## ✔️ I'm currently learning
 
-![](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/-Vue.js-00796B?style=for-the-badge&logo=Vue.js&logoColor=white) ![](https://img.shields.io/badge/-Node-green?style=for-the-badge&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/-React.js-18FFFF?style=for-the-badge&logo=React&logoColor=black) ![](https://img.shields.io/badge/-some_MongoDB-orange?style=for-the-badge&logo=MongoDB&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/-Vue.js-00796B?style=for-the-badge&logo=Vue.js&logoColor=white) ![](https://img.shields.io/badge/-Node-green?style=for-the-badge&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/-React.js-18FFFF?style=for-the-badge&logo=React&logoColor=black) ![](https://img.shields.io/badge/-MongoDB-orange?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 ## ⚡ Technologies
 
